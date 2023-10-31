@@ -231,7 +231,6 @@ first commit
 -----------------------------------------------------------------------------------------------------------------------------
 
 # To push after removing and adding back the remote origin from VSCode                       
-
     a.	Click on Source Control option or Press Ctrl+Shft+G to open a left panel
     b.	Stage all the changes from the left panel by clicking on the + sign
     c.	Click on Commit button to commit all the changes. If will ask to enter the commit message. Enter the message and submit 

@@ -82,6 +82,11 @@ first commit
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+# To check which remote repository is connected to project
+    •	git remote -v
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 # To add remote to project
     •	git remote add origin <github repository url>
 
